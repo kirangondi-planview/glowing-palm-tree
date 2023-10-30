@@ -2,5 +2,6 @@ Instructions for deploying this site to the server
 -------------------------------------------------
 Lorem ipsum dolor sit met
 
-Troubleshooting
----------------
+Installation on IIS
+-------------------
+Content goes here
